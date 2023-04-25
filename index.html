@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Super Heroes</title>
+  <link rel="stylesheet" href="src/style.css">
 </head>
+
 <body>
-  
-  <script type="module" src="./src/main.js"></script>
+  <main>
+    <header>
+      <h1>Super Heroes</h1>
+    </header>
+
+    <section>
+      <img id="card"></img>
+      <p id="character-name"></p>
+    </section>
+
+    <button id="sort-btn">SORT</button>
+
+    <script src="node_modules/sweetalert2/dist/sweetalert2.all.min.js"></script>
+    <script type="module" src="./src/main.js"></script>
+  </main>
 </body>
+
 </html>
