@@ -1,4 +1,4 @@
-# SuperHeroes-API
+# SuperHeroes Cards
 Exercício da Trybe usando uma API de súper heróis.
 
 ## API de Super Heróis
