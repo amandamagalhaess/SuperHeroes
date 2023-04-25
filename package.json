@@ -1,0 +1,12 @@
+{
+  "name": "superheroes-api",
+  "version": "1.0.0",
+  "description": "Exercício da Trybe usando uma API de súper heróis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
