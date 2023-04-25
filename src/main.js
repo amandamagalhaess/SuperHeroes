@@ -1,5 +1,3 @@
-import Swal from 'sweetalert2';
-
 const sortBtn = document.getElementById('sort-btn');
 const card = document.getElementById('card');
 const characterName = document.getElementById('character-name');
